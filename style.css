@@ -24,8 +24,7 @@
 
 .logo{
     width: 300px;
-    color: white;
-    font-weight: 600;
+
 }
 
 .logo::before {
